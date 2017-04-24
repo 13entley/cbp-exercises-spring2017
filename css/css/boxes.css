@@ -1,0 +1,29 @@
+#first,
+#second,
+#third {
+	width:600px;
+	padding:0.5em;
+	text-align:middle;
+	margin:1em auto;
+}
+
+#first{
+	border:1px;
+	color:black;
+	border-style:solid;
+}
+
+#second{
+	border:10px;
+	color:blue;
+	border-style:dotted;
+}
+
+#third{
+	border-top-width:3px;
+	border-right-width:1px;
+	border-bottom-width:3px;
+	border-left-width:0px;
+	border-color:green;
+	border-style:solid;
+}
