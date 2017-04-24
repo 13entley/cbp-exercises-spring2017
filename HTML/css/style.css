@@ -1,0 +1,119 @@
+
+h1 {
+	color:blue;
+	text-align:center;
+}
+
+h2{
+	text-align:center;
+}
+a {
+	font-weight:bold;
+	color:blue;
+}
+
+a {
+	color:#0000FF;
+	background-color:#66FF33;
+}
+
+#biography{
+	background-color:#0000FF;
+	display:none;
+}
+
+p {
+	background-color:blue;
+	color:#000000,.5;
+}
+
+h3 {
+	text-align:center;
+}
+
+table {
+	margin: 0 auto;
+}
+
+
+
+ol {
+	margin:0 auto;
+}
+
+table > tbody > tr > td {
+	background-color:orange;
+}
+
+.green-headline {
+	color:green;
+
+}
+
+.filmography td{
+	background-color:orange;
+}
+
+.filmography.big{
+	font-size:20px;
+}
+
+/* Every second row's td */
+table tr:nth-child(2n) td{
+	background-color:black;
+}
+
+td:hover {
+	color:white;
+}
+
+table[border="2"]{
+	border-color:red;
+}
+
+.center {text-align:center;}
+
+
+
+
+p.red{
+	background-color:red;
+}
+
+p.green{
+	background-color:green;
+}
+
+p.blue{
+	background-color:blue;
+}
+
+p.red a, #biography {color:white;}
+
+p.blue a {
+	color:yellow;
+}
+
+li.seen {
+	color:silver;
+}
+
+li.unseen {
+	color:red;
+}
+
+span.seen {color:silver
+	;}
+
+li.unseen {color:brown;}
+
+li.good {
+	color:green;
+}
+
+
+h1:hover,
+h2:hover,
+h3:hover {
+text-decoration: underline;
+}

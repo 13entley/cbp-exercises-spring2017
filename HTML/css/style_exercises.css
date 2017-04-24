@@ -1,0 +1,20 @@
+
+
+
+p.red{
+	background-color:red;
+}
+
+p.green{
+	background-color:green;
+}
+
+p.blue{
+	background-color:blue;
+}
+
+p.red a, #biography {color:white;}
+
+p.blue a {
+	color:yellow;
+}
